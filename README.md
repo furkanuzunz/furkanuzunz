@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @furkanuzunz
-- 👀 I’m interested in improving myself 
+- 👋 Hi, I’m Furkan UZUN
+- 👀 I’m interested in improving myself
 - 🌱 I’m currently learning git & github
 - 📫 How to reach me fuzun099@gmail.com 
 
