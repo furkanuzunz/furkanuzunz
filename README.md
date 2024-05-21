@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan UZUN
 - 👀 I’m interested in improving myself
-- 🌱 I’m currently learning git & github
+- 🌱 I’m currently learning git & github and C programming
 - 📫 How to reach me fuzun096@gmail.com 
 
 <!---
