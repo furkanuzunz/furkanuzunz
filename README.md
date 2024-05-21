@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Furkan UZUN
 - 👀 I’m interested in improving myself
 - 🌱 I’m currently learning git & github
-- 📫 How to reach me fuzun099@gmail.com 
+- 📫 How to reach me fuzun096@gmail.com 
 
 <!---
 furkanuzunz/furkanuzunz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
