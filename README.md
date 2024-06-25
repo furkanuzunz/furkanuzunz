@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">nformation Systems Engineering student who focuses on his own personal improvement.</h3>
+<h3 align="center">Information Systems Engineering student who focuses on his own personal improvement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanuzunz&label=Profile%20views&color=0e75b6&style=flat" alt="furkanuzunz" /> </p>
 
