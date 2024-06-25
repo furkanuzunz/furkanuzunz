@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Information Systems Engineering student who focuses on his own personal improvement.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanuzunz&label=Profile%20views&color=0e75b6&style=flat" alt="furkanuzunz" /> </p>
+
 
 - 🔭 I’m currently working on **42 School's piscine**
 
@@ -30,4 +30,13 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=furkanuzunz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=furkanuzunz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanuzunz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanuzunz&label=Profile%20views&color=0e75b6&style=flat" alt="furkanuzunz" /> </p>
 
