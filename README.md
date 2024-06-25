@@ -23,10 +23,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/furkanuzunz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkanuzunz/" height="30" width="40" /></a>
 <a href="https://instagram.com/furkanuzunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanuzunz" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/24818471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24818471" height="30" width="40" /></a>
 <a href="https://medium.com/@fuzun096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fuzun096" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/fuzun096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/fuzun096" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/fuzun096/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/fuzun096/" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/24818471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24818471" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Tech Stack:</h3>
