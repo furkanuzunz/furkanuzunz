@@ -6,15 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **42 School's piscine**
+-  I’m currently learning on **C programming**
+   
+-  I’m looking for help with C programming
 
-- 🌱 I’m currently learning **C programming and git & github**
-  
-- 🤔 I’m looking for help with C programming
-
--  🥅 2024 Goals: Improving myself with algorithms and data structures 🌎 and starting data science 🤖
+-  2024 Goals: Improving myself with algorithms and data structures
  
-- ⚡ Fun fact: I like camping 🏕️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+-  I like camping , play chess , play basketball and cycling 
 
 
 - 📫 How to reach me **fuzun096@gmail.com**
