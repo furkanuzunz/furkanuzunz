@@ -9,7 +9,7 @@
 -  I’m currently learning on **C programming**
   
 -  2024 Goals: Improving myself with algorithms and data structures
--  
+
 - 📫 How to reach me **fuzun096@gmail.com**
 
 <h3 align="left">Socials:</h3>
