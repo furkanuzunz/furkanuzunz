@@ -7,14 +7,9 @@
 
 
 -  I’m currently learning on **C programming**
-   
--  I’m looking for help with C programming
-
+  
 -  2024 Goals: Improving myself with algorithms and data structures
- 
--  I like camping , play chess , play basketball and cycling 
-
-
+-  
 - 📫 How to reach me **fuzun096@gmail.com**
 
 <h3 align="left">Socials:</h3>
