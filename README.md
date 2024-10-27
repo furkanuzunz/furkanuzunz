@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" height="320" />
 
 
-<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h1 align="center">I'm Furkan</h1>
 <h3 align="center">Information Systems Engineering student who focuses on his own personal improvement.</h3>
 
 
